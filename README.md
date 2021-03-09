@@ -2,7 +2,7 @@
 
 I maintain [drupal-check](https://github.com/mglaman/drupal-check) and [phpstan-drupal](https://github.com/mglaman/phpstan-drupal), used by the [Drupal](https://www.drupal.org) community and projects for static code anaylsis and deprecated code detection.
 
-You can catch me on [Twitter](https://twitter.com/nmdmatt) and [YouTube](https://www.youtube.com/channel/UCFntxnFeNN9DXNNrPi4s4Hg), or my [Blog](https://glamanate.com/).
+You can catch me on [Twitter](https://twitter.com/nmdmatt) and [YouTube](https://www.youtube.com/channel/UCFntxnFeNN9DXNNrPi4s4Hg), or my [Blog](https://mglaman.dev/).
 
 <!--
 **mglaman/mglaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
